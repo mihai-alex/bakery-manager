@@ -2,10 +2,10 @@
 C console-based, menu-driven app that allows its user to manage bakery materials
 
 ## The user can:
-* add bakery materials
-* delete bakery materials
-* update bakery materials
-* filter bakery materials
+* add materials
+* delete materials
+* update materials
+* filter materials
 * undo/redo any operation
 
 ## Developed using:
